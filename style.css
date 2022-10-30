@@ -1,0 +1,38 @@
+
+.container {
+    display: flex;
+    flex-direction: column;
+    margin: 10vh auto;
+    width: 80vh;
+    border: 3px solid;
+    padding: 1rem;
+    align-items: center;
+    border-radius: 1rem;
+    background-color: #FFB9B9;
+    
+}
+
+#bill-amount,#cash-given {
+    margin: 0 1rem 1rem 1rem;
+}
+
+#next-btn {
+    margin-bottom: 1rem;
+}
+
+#error-msg {
+    color: red;
+}
+.change-table {
+    display: table;
+}
+
+table, th, td {
+    border: 0.1rem solid;
+    border-collapse: collapse;
+    text-align: center;
+  }
+
+  td{
+    width: 2rem;
+  }
