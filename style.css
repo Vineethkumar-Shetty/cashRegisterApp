@@ -16,10 +16,6 @@
     margin: 0 1rem 1rem 1rem;
 }
 
-#next-btn {
-    margin-bottom: 1rem;
-}
-
 #error-msg {
     color: red;
 }
